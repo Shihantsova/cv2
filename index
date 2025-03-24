@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='UTF8' />
+    <title> Vladilen CV </title>
+</head>
+<body> 
+    <h1> Alina Tkachova </h1>
+    <p> <em>  Perfect Wife <strong> Amazing </strong></em></p>
+    <p> Love animals and travelling </p>
+    <hr> 
+    <h2> My social media </h2>
+    <ul type="square">
+        <Li> <a href="https://instgram.com/shihantsova"> https://instagram.com/shihantsova </a></Li>
+
+    </ul>
+
+    
+    <h2> My hobbie </h2>
+    <ol type="I">
+        <li> Travelling </li>
+        <li> running </li>
+        <li> Watching movies</li>
+
+    </ol>
+
+</body>
+</html>
+
+
+
+
+
